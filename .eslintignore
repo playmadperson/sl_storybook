@@ -1,0 +1,7 @@
+.eslintrc.js
+*.config.js
+*.config.ts
+node_modules/
+build/
+dist/
+*.d.ts

@@ -1,0 +1,19 @@
+{
+    "signIn": "Sign In",
+    "email-field": "E-mail",
+    "email-placeholder": "Enter your e-mail",
+    "password-field": "Password",
+    "password-placeholder": "Enter your password",
+    "remember": "Remember me",
+    "remind-password": "Forgot password",
+    "signin-submit": "Sign in",
+    "signup-redirect": "or <0>{{signup}}</0>",
+    "signUp": "Sign up",
+    "validation": {
+        "email": "Invalid e-mail",
+        "required-field": "Required field",
+        "password": "Password too short",
+        "400": "Wrong e-mail or password",
+        "unknown": "Unknown error. Try again later"
+    }
+}

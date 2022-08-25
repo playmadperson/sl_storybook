@@ -1,0 +1,19 @@
+{
+  "signIn": "Вход",
+  "email-field": "E-mail",
+  "email-placeholder": "Введите e-mail",
+  "password-field": "Пароль",
+  "password-placeholder": "Введите пароль",
+  "remember": "Запомнить",
+  "remind-password": "Напомнить пароль",
+  "signin-submit": "Войти",
+  "signup-redirect": "или <0>{{signup}}</0>",
+  "signUp": "Зарегистрироваться",
+  "validation": {
+    "email": "Неверный формат e-mail",
+    "required-field": "Обязательное поле",
+    "password": "Слишком короткий пароль",
+    "400": "Неверный e-mail или пароль",
+    "unknown": "Произошла неизвестная ошибка, попробуйте повторить позже"
+  }
+}
